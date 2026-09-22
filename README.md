@@ -39,3 +39,5 @@
 >>> CLASS         : Physical Engineering
 >>> SPECIALTY     : Biorobotics
 >>> STATUS        : Analyzing data... Synthesizing solutions...
+
+As a Physical Engineering student, my training is deeply rooted in a multidisciplinary, interdisciplinary, and transdisciplinary approach. I combine a solid foundation in physics, mathematics, and computing with applied engineering principles. My focus in Biorobotics reflects the drive to integrate mechanical systems and algorithms with the biological world, bridging the gap between scientific discovery and technological innovation. I am driven to solve complex problems at the frontier of modern technology, including automation, nanotechnology, and advanced materials
