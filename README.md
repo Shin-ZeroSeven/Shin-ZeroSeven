@@ -89,24 +89,24 @@
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shin-ZeroSeven&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Shin-ZeroSeven&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=2" alt="Trophies" />
   </a>
 
   <br><br>
 
   <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shin-ZeroSeven&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=08F7FE&text_color=A0A0A0&icon_color=FF003C&border_color=08F7FE&border_radius=0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-ZeroSeven&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=08F7FE&text_color=A0A0A0&border_color=08F7FE&border_radius=0" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shin-ZeroSeven&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=08F7FE&text_color=A0A0A0&icon_color=FF003C&border_color=08F7FE&border_radius=0&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-ZeroSeven&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=08F7FE&text_color=A0A0A0&border_color=08F7FE&border_radius=0&v=2" alt="Top Languages" width="48%" />
 
   <br><br>
 
-  <!-- Streak Stats -->
+  <!-- Streak Stats (Heroku - Já estava funcionando) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shin-ZeroSeven&theme=dark&hide_border=true&background=0A0A0A&ring=08F7FE&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=A0A0A0&dates=A0A0A0" alt="GitHub Streak" width="100%" />
 
   <br><br>
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shin-ZeroSeven&bg_color=0A0A0A&color=08F7FE&line=FF003C&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shin-ZeroSeven&bg_color=0A0A0A&color=08F7FE&line=FF003C&point=FFFFFF&area=true&hide_border=true&v=2" alt="Activity Graph" width="100%" />
 
 </div>
 
