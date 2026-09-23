@@ -2,7 +2,7 @@ name: Generate Local Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Atualiza a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: username=Shin-ZeroSeven&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=08F7FE&text_color=A0A0A0&icon_color=FF003C&border_color=08F7FE
           path: stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MEU_TOKEN_SECRETO }}
           
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v1
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: username=Shin-ZeroSeven&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=08F7FE&text_color=A0A0A0&border_color=08F7FE
           path: top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MEU_TOKEN_SECRETO }}
           
       - name: Commit & Push
         run: |
